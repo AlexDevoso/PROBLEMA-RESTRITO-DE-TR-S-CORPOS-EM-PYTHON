@@ -37,5 +37,12 @@ O *Problema Restrito de Três Corpos* estuda o movimento de um corpo de massa mu
 
 ---
 
-## 📁 Estrutura do Repositório
+## Como Executar:
+-git clone https://github.com/SEU_USUARIO/tres-corpos.git
+-cd tres-corpos
+-pip install -r requirements.txt
+-python simulacao_restrito.py
 
+##📌 Resultados Esperados
+-Visualização da influência de Netuno no movimento de Plutão
+-Verificação da estabilidade orbital do corpo de massa desprezível
